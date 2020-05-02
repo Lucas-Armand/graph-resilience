@@ -8,4 +8,4 @@ Nesse trabalho iremos realizar uma análise da resiliência de um rede simulando
 
 O código pode (em formato notebook) pode ser encontrado em:
 
-<script src="https://gist.github.com/Lucas-Armand/ff24712637e8a5a2347518cb79f62534.js"></script>
+https://gist.github.com/Lucas-Armand/ff24712637e8a5a2347518cb79f62534
